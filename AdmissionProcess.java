@@ -2,7 +2,7 @@ public class AdmissionProcess {
     
     public static void main(String[] args){
        
-        System.out.println("Hi There! Welcome to GitHub");
+        System.out.println("Hello There! Welcome to GitHub");
     
         }
     }
